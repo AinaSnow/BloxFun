@@ -1,4 +1,4 @@
---Credits to Inori for the spectators list script
+--Credits to Inori for spectators list script.
 local dragger = {}; do
 	local mouse        = game:GetService("Players").LocalPlayer:GetMouse();
 	local inputService = game:GetService('UserInputService');
