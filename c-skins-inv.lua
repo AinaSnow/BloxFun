@@ -52,7 +52,8 @@ local allSkins = {
    {'Bearded Axe_Splattered'},
    {'Sickle_Splattered'},
    {'Cleaver_Splattered'},
-   {'Banana_Stock'},
+   {'Flip Knfie_Stock'},
+   --{'Banana_Custom'},
    {'Banana_Stock'}
 }
 
