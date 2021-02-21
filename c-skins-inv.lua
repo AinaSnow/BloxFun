@@ -42,6 +42,7 @@ local allSkins = {
    {'Sports Glove_Majesty'},
    {'Handwraps_Wraps'},
    {'Karambit_Splattered'},
+   {'Butterfly Knife_Stock'},
    {'Butterfly Knife_Splattered'},
    {'Falchion Knife_Splattered'},
    {'Bayonet_Splattered'},
