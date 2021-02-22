@@ -56,7 +56,6 @@ local allSkins = {
    {'Sickle_Mummy'},
    {'Cleaver_Splattered'},
    {'Flip Knfie_Stock'},
-   --{'Banana_Custom'},
    {'Banana_Stock'}
 }
 
