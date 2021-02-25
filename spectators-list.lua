@@ -1,3 +1,5 @@
+--Credits for Spectators List to Venosu/HexHub Creator
+
 local dragger = {}; do
 	local mouse        = game:GetService("Players").LocalPlayer:GetMouse();
 	local inputService = game:GetService('UserInputService');
